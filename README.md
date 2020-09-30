@@ -1,4 +1,4 @@
-# movie-list
+# movie rating - list amazing project
 
 The end result of extreme boredom and the sufferings after watching some really low-rated movies on TV.
 
